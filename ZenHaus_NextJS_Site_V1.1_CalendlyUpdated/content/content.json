@@ -1,0 +1,133 @@
+{
+  "site": {
+    "name": "ZenHaus Estates LLC",
+    "base_city": "Venice, Florida",
+    "service_area": "Southwest Florida (Tampa Bay to Naples)",
+    "tagline": "Value-add rentals in Southwest Florida\u2014done right.",
+    "contact_email": "hello@zenhausestates.com",
+    "calendly_url": "https://calendly.com/zenhaus/new-meeting",
+    "phone": "(941) 444-2123"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Strategy",
+      "href": "/strategy"
+    },
+    {
+      "label": "For Sellers",
+      "href": "/sellers"
+    },
+    {
+      "label": "Partners",
+      "href": "/partners"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Updates",
+      "href": "/updates"
+    },
+    {
+      "label": "Book a Call",
+      "href": "/contact",
+      "cta": true
+    }
+  ],
+  "home": {
+    "hero_h1": "Value-add rentals in Southwest Florida\u2014done right.",
+    "sub": "ZenHaus finds and improves small residential assets, then holds long-term. Local, disciplined, transparent.",
+    "badges": [
+      "Based in Venice, FL",
+      "Serving Tampa Bay \u2192 Naples",
+      "Data-driven",
+      "Long-term owner"
+    ],
+    "value_points": [
+      {
+        "title": "Acquire undervalued",
+        "desc": "2\u201320 units, B/C-class, clear value-add path."
+      },
+      {
+        "title": "Improve thoughtfully",
+        "desc": "Unit turns, curb appeal, efficiency, durable finishes."
+      },
+      {
+        "title": "Rent for stability",
+        "desc": "Resident quality, retention, and service-first ops."
+      },
+      {
+        "title": "Refinance to scale",
+        "desc": "Stabilize, refinance, and recycle capital."
+      }
+    ]
+  },
+  "strategy": {
+    "h1": "Simple framework, repeatable outcomes.",
+    "sections": [
+      {
+        "title": "Acquire",
+        "text": "We target 2\u201320 unit residential assets with value-add potential across Southwest Florida."
+      },
+      {
+        "title": "Improve",
+        "text": "Light-to-moderate renovations focused on durable quality and curb appeal."
+      },
+      {
+        "title": "Rent",
+        "text": "Resident-first operations for stable occupancy and fewer surprises."
+      },
+      {
+        "title": "Refinance",
+        "text": "Conservative leverage, DSCR-minded financing to recycle capital."
+      },
+      {
+        "title": "Scale",
+        "text": "Systems, vendor network, and discipline to repeat the cycle."
+      }
+    ]
+  },
+  "sellers": {
+    "h1": "Sell fast, fair, and simple.",
+    "bullets": [
+      "As-is",
+      "No listings",
+      "Clear timeline",
+      "Local close"
+    ],
+    "process": [
+      "Quick call",
+      "Walkthrough",
+      "Offer",
+      "Close with reputable title"
+    ]
+  },
+  "partners": {
+    "h1": "Bring opportunities. We perform.",
+    "agents": "Pocket listings welcome. Quick feedback and clean terms.",
+    "contractors": "Clear scopes, prompt payment, recurring work across the region.",
+    "lenders": "Stabilized rentals, conservative leverage, transparent updates."
+  },
+  "about": {
+    "h1": "ZenHaus Estates, Venice FL",
+    "body": "We acquire, improve, rent, and hold value-add residential properties across Southwest Florida\u2014from Tampa Bay to Naples\u2014operating with straight talk and reliable execution."
+  },
+  "updates": {
+    "h1": "Updates",
+    "intro": "Short, practical notes on deals, operations, and the market."
+  },
+  "contact": {
+    "h1": "Book an Intro Call",
+    "sub": "Pick a time that works. If you prefer email, use the form below."
+  },
+  "legal": {
+    "h1": "Legal & Disclosures",
+    "llc_purpose": "The purpose of the Company is to engage in the business of acquiring, owning, developing, improving, managing, leasing, and selling real estate of all types, whether residential or commercial, and to carry on any and all lawful activities necessary, incidental, or convenient to the foregoing. The Company may also participate in joint ventures, partnerships, and other collaborative arrangements related to real estate investment and may act as an intermediary or facilitator in real estate transactions to the extent permitted by law.",
+    "disclaimer": "This site is for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities."
+  }
+}
