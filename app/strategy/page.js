@@ -54,6 +54,12 @@ export default function StrategyPage() {
         deliver consistent performance and long-term regional impact. Every project
         should strengthen the foundation for the next.
       </p>
+          <div style={{ marginTop: '2rem' }}>
+  <a href="/"><button>← Back to Home</button></a>
+  <a href="https://calendly.com/zenhaus/new-meeting" style={{ marginLeft: '1rem' }}>
+    <button>Book a Call</button>
+  </a>
+</div>
     </main>
   );
 }
