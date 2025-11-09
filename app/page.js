@@ -3,7 +3,7 @@ export default function Page() {
     <div style={{padding: 24}}>
       <h1>ZenHaus Estates</h1>
       <p>Based in Venice, FL — Serving Southwest Florida (Tampa Bay to Naples).</p>
-      <p><a href="/about">Go to About</a></p>
+      <p><a href="/about">About</a></p>
     </div>
   );
 }
