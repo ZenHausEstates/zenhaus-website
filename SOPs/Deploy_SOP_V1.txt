@@ -1,0 +1,4 @@
+Deploy SOP:
+- Import to Vercel → Next.js → Build: npm run build → Output: out
+- Add zenhausestates.com → point DNS → enable SSL
+- Verify in Search Console → submit /sitemap.xml
