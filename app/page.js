@@ -1,6 +1,20 @@
 export default function Home() {
   return (
     <main className="min-h-screen bg-white text-slate-900">
+
+      {/* Header with Logo */}
+      <header className="w-full border-b border-slate-200 bg-white">
+        <div className="max-w-5xl mx-auto px-6 h-16 flex items-center">
+          <a href="/" className="flex items-center">
+            <img
+              src="/logo.png"   // <-- put your logo file in /public/logo.png 
+              alt="ZenHaus Estates"
+              className="h-8 w-auto"
+            />
+          </a>
+        </div>
+      </header>
+
       {/* Hero */}
       <section className="px-6 py-16 md:py-24 max-w-4xl mx-auto">
         <p className="text-sm font-semibold tracking-wide text-slate-500 uppercase mb-3">
@@ -125,6 +139,7 @@ export default function Home() {
           </a>
         </div>
       </section>
+
     </main>
   );
 }
