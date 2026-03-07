@@ -1,24 +1,18 @@
 "use client";
-
 import Link from "next/link";
-import Image from "next/image";
 import { usePathname } from "next/navigation";
 import styles from "./Navbar.module.css";
 
 export default function Navbar() {
   const pathname = usePathname();
-
   return (
     <nav className={styles.nav}>
       <Link href="/" className={styles.brand}>
-        <Image
-          src="/logo_black.jpeg"
-          alt="ZenHaus Estates"
-          width={120}
-          height={42}
-          style={{ height: "42px", width: "auto" }}
-          priority
-        />
+        <span className={styles.brandMark}>⌂</span>
+        <span className={styles.brandText}>
+          <span className={styles.brandName}>ZenHaus</span>
+          <span className={styles.brandSub}>ESTATES</span>
+        </span>
       </Link>
       <ul className={styles.links}>
         <li>
