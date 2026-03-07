@@ -14,7 +14,7 @@ const SPONSOR_TIERS = [
     features: [
       "Logo in newsletter footer",
       "Link to your website",
-      "Listed in "This Issue's Partners" section",
+      "Listed in \"This Issue's Partners\" section",
       "One issue minimum",
     ],
   },
