@@ -1,8 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
 import styles from "./page.module.css";
 
 const SPONSOR_TIERS = [

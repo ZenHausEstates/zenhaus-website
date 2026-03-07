@@ -1,9 +1,9 @@
 "use client";
 
 import { useState } from "react";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
-import Ticker from "@/components/Ticker";
+import Navbar from "../../components/Navbar";
+import Footer from "../../components/Footer";
+import Ticker from "../../components/Ticker";
 import styles from "./page.module.css";
 
 const WYG_CARDS = [
